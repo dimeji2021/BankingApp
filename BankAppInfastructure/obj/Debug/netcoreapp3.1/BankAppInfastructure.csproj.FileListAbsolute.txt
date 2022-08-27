@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\bin\Debug\netcoreapp3.1\BankAppInfastructure.deps.json
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\bin\Debug\netcoreapp3.1\BankAppInfastructure.dll
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\bin\Debug\netcoreapp3.1\BankAppInfastructure.pdb
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.dll
+C:\Users\hp\source\repos\BankWinform\BankAppInfastructure\obj\Debug\netcoreapp3.1\BankAppInfastructure.pdb

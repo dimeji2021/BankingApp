@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCadR5I/woR2BGvkJh52g14d/TtJH9uGWuuZtB2hlmzYtDN1hyQ6U4pf9ePThsVnTuvC8InYkX8jTwQtsHYKeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\BankWinform\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
